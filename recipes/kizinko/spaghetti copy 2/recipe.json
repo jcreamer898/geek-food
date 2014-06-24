@@ -1,0 +1,29 @@
+{
+    "title": "Delicious Spaghetti",
+    "category": "Italian",
+    "author": "Jonathan Creamer",
+    "prepTime": "20 minutes",
+    "cookTime": "At least 2 hours",
+    "image": "images/final.jpg",
+    "tags": "Dinner, Pasta, Italian, Sauce",
+    "ingredients": [{
+            "name": "Can of Sauce",
+            "quantity": 2
+        }, {
+            "name": "Can of Paste",
+            "quantity": 2
+        }, {
+            "name": "Can of Puree",
+            "quantity": 2
+        }],
+    "steps": [{
+            "description": "Put 2 tbsp of oil and garlic in the crockpot",
+            "image": "step-1.jpg"
+        }, {
+            "description": "Combine all the sauce, paste, and puree",
+            "image": "step-2.jpg"
+        }, {
+            "description": "Sprinkle all the spices to taste",
+            "image": "step-3.jpg"
+        }]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Hamburger",
+    "category": "American",
+    "author": "Jonathan Creamer",
+    "prepTime": "20 minutes",
+    "cookTime": "At least 2 hours",
+    "image": "images/final.jpg",
+    "tags": "Dinner, Pasta, Italian, Sauce",
+    "ingredients": [{
+            "name": "Ground Beef",
+            "quantity": "1lb"
+        }, {
+            "name": "Onion",
+            "quantity": 1
+        }, {
+            "name": "Worshicher Sauce",
+            "quantity": "1 Cup"
+        }],
+    "steps": [{
+            "description": "Mix beef",
+            "image": "step-1.jpg"
+        }, {
+            "description": "Grill It",
+            "image": "step-2.jpg"
+        }, {
+            "description": "Eat it",
+            "image": "step-3.jpg"
+        }]
+}
