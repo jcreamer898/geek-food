@@ -68,6 +68,7 @@ RecipeBuilder.prototype.buildCategories = function() {
     var self = this;
 
     this.recipes.forEach(function(recipe) {
+        console.l
         self.categories[recipe.category] = (self.categories[recipe.category] || 0) + 1;
     });
 };
